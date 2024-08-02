@@ -21,7 +21,7 @@ This API project provides a robust and secure backend solution with various feat
 
 - **Authentication**:
   - User login and registration
-  - Forgot password and email verification
+  - Forgot password and email verification using SMTP
   - Google social login via Laravel Socialite
   - API authentication using Laravel Passport
 
