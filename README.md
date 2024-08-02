@@ -48,5 +48,5 @@ To get started with this API project, follow the instructions below:
 1. Clone the repository:
    ```bash
    git clone https://github.com/maulanaakgn/api-project-laravel10.git
-   cd your-repository
+   cd api-project-laravel10
 
