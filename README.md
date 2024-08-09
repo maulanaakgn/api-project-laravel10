@@ -54,7 +54,7 @@ To get started with this API project, follow the instructions below:
    ```bash
    composer install
 
-3. Copy file ` ```dotenvdotexample ... ``` ` to ` ```dotenv ... ``` `:
+3. Copy file `.env.example` to `.env`:
    ```bash
    cp .env.example .env
 
@@ -70,9 +70,7 @@ To get started with this API project, follow the instructions below:
    ```bash
    php artisan passport:install
 
-7. Copy Client ID & Client Secret to ` ```dotenv ... ``` `:
+7. Copy Client ID & Client Secret to `.env`:
    ```bash
    PASSPORT_CLIENT_ID=YOUR_PASSPORT_CLIENT_ID_HERE
    PASSPORT_CLIENT_SECRET=YOUR_PASSPORT_CLIENT_SECRET_HERE
-
-
