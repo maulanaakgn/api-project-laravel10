@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "604cb50ab02d2c8c0ccf13d7906e8ce0",
+    "content-hash": "fd27f3e04b263da5d9067c96629cd546",
     "packages": [
         {
             "name": "brick/math",
@@ -1389,16 +1389,16 @@
         },
         {
             "name": "laravel/passport",
-            "version": "v12.2.1",
+            "version": "v12.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/passport.git",
-                "reference": "795bbb406c8f10167df6062032de803bd7d686f2"
+                "reference": "ca63a86697a4fa091c7dcabe88ebba91d97c785d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/passport/zipball/795bbb406c8f10167df6062032de803bd7d686f2",
-                "reference": "795bbb406c8f10167df6062032de803bd7d686f2",
+                "url": "https://api.github.com/repos/laravel/passport/zipball/ca63a86697a4fa091c7dcabe88ebba91d97c785d",
+                "reference": "ca63a86697a4fa091c7dcabe88ebba91d97c785d",
                 "shasum": ""
             },
             "require": {
@@ -1461,7 +1461,7 @@
                 "issues": "https://github.com/laravel/passport/issues",
                 "source": "https://github.com/laravel/passport"
             },
-            "time": "2024-07-10T19:25:36+00:00"
+            "time": "2024-08-05T13:44:51+00:00"
         },
         {
             "name": "laravel/prompts",
