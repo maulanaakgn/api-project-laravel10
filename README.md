@@ -49,4 +49,30 @@ To get started with this API project, follow the instructions below:
    ```bash
    git clone https://github.com/maulanaakgn/api-project-laravel10.git
    cd api-project-laravel10
+   
+2. Install composer:
+   ```bash
+   composer install
+
+3. Copy file ` ```dotenvdotexample ... ``` ` to ` ```dotenv ... ``` `:
+   ```bash
+   cp .env.example .env
+
+4. Generate application key:
+   ```bash
+   php artisan key:generate
+
+5. Run migrations:
+   ```bash
+   php artisan migrate
+   
+6. Install laravel passport:
+   ```bash
+   php artisan passport:install
+
+7. Copy Client ID & Client Secret to ` ```dotenv ... ``` `:
+   ```bash
+   PASSPORT_CLIENT_ID=YOUR_PASSPORT_CLIENT_ID_HERE
+   PASSPORT_CLIENT_SECRET=YOUR_PASSPORT_CLIENT_SECRET_HERE
+
 
